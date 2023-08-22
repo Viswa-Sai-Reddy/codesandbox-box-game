@@ -1,0 +1,34 @@
+#parent{
+    height: 400px;
+    width: 400px;
+    background-color: black;
+    position:relative;
+}
+#child1{
+    height: 64px;
+    width: 64px;
+    background-color: pink;
+    position: absolute;
+   
+
+
+}
+#child2{
+    height: 64px;
+    width: 64px;    
+    background-color:green;
+    position: absolute;
+    top:32px;
+    left:32px;
+
+}
+#child3{
+    height: 64px;
+    width: 64px;
+    background-color: yellow;
+    position: absolute;
+    top: 64px;
+    left: 64px;
+
+    
+}
